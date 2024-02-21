@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NivinJose
-- 👀 I’m interested in coding,video editing
-- 🌱 I’m currently learning EEE in Loyola ICAM of Engineering and Technology
+- 👀 I’m interested in coding, projects
+- 🌱 I’m currently pursuing EEE in Loyola ICAM of Engineering and Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nivinjose.25ee@licet.ac.in
 
